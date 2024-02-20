@@ -1,0 +1,62 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Fahkwang-Regular";
+  src: url("../fonts/Fahkwang-Regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Fahkwang-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Fahkwang-Regular.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Fahkwang-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Fahkwang-Regular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Fahkwang-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/Roboto-Regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Roboto-Regular.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/Roboto-Regular.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Roboto-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Roboto-Regular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Roboto-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "AmaticSC-Regular";
+  src: url("../fonts/AmaticSC-Regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/AmaticSC-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/AmaticSC-Regular.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/AmaticSC-Regular.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/AmaticSC-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/AmaticSC-Regular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/AmaticSC-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato-Regular";
+  src: url("../fonts/Lato-Regular.ttf");
+}
+
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Montserrat-Medium";
+  src: url("../fonts/Montserrat-Medium.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Montserrat-Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Montserrat-Medium.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/Montserrat-Medium.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Montserrat-Medium.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Montserrat-Medium.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Montserrat-Medium.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
